@@ -1,0 +1,39 @@
+.custHome{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    height: 50px;
+
+    /* height attribute is not working here */
+    background-color:#858585;  
+}
+
+.custHome td{
+    font-weight: bold;
+    display: inline-block;
+    /* width: 90%; */
+    color: black;
+    padding: 9px 3%;
+    padding-left: 5%;
+}
+th{
+    margin: 3px 55px;
+    font-size: large;
+}
+td{
+    margin: 3px -32px;
+}
+tr{
+    /* font-weight: bold; */
+    /* display: inline-block; */
+    width: 100%;
+    color: black;
+    padding: 9px 3%;
+    padding-left: 5%;
+}
+#price{
+    margin-left: 3%;
+}
+table {
+    width: 100%;
+}

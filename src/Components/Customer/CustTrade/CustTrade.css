@@ -1,0 +1,20 @@
+.custTrade{
+    width: 100%;
+    height: 50px;
+    /* height attribute is not working here */
+    background-color:#858585;  
+}
+
+th{
+    font-weight: bold;
+    display: inline-block;
+    color: black;
+    padding: 9px 2%;
+    padding-left: 5%;
+}
+.value{
+    padding-left: 16%;
+}
+table {
+    width: 100%;
+}

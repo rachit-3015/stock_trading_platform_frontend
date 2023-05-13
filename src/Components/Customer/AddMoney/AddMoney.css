@@ -1,0 +1,50 @@
+.addMoney{
+    width: 25%;
+    /* border: 0.05em solid black; */
+    margin-top: 0.5%;    
+    background: #FAF9F6;
+    border-radius: 10px;
+    margin-left: 35%;
+}
+.btn button{
+    background-color: #0b2239;
+    color: white;
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    font-size: medium;
+    border-style: none;
+    margin-bottom: 3%
+}
+form{
+    padding-left: 5%;
+    /* background: white; */
+}
+form div{
+    margin-bottom: 0%;
+}
+label{
+    padding-left: 20px;
+    font-weight: bold;
+
+}
+input{
+    width: 80%;
+    border-radius: 5px;
+    height: 20px;
+    padding-left: 7px;
+    background: white;
+}
+form button{
+    background-color: #1b9bff;
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+#btnSubmit{
+    margin-bottom: 20px;
+}
