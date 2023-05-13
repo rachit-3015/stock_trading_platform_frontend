@@ -9,6 +9,6 @@ https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/f
 
 https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/55186f80-b2fe-4bff-9672-8cc6ed2d72d1
 
-
-
+![Picsart_23-05-13_17-16-15-452](https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/2a100dcf-52b8-4b7f-ace1-c6ca60820b0c)
+![Picsart_23-05-13_18-37-07-284](https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/6d8495b9-adeb-4544-93b1-71778e627683)
 
