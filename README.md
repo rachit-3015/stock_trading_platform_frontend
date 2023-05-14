@@ -4,3 +4,6 @@ https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/2
 
 ![custHome](https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/71791ca4-4fb4-4f3c-bb32-5a304b3ceeab)
 
+
+https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/989b7cc3-cecf-4797-9bd3-b9dbdf03c0e3
+
