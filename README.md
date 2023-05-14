@@ -7,3 +7,7 @@ https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/2
 
 https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/989b7cc3-cecf-4797-9bd3-b9dbdf03c0e3
 
+
+https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/213586ee-d27d-4758-9bce-37798f685d5e
+
+
