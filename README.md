@@ -10,9 +10,9 @@ https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/9
 
 https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/213586ee-d27d-4758-9bce-37798f685d5e
 
-![jwtToken email](https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/59bb5b81-8207-4636-abf8-54aed247aa53)
+![Picsart_23-05-13_17-16-15-452](https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/9b73c63b-7adf-45cd-95ed-aa1455013a37)
 
-![header](https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/d67e2f41-3048-4842-8337-624cbac7ec0a)
+![Picsart_23-05-13_18-37-07-284](https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/13a69e92-2e30-432c-b326-ec4c98967775)
 
 
 https://github.com/rachit-3015/stock_trading_platform_frontend/assets/82304901/c9da7381-1d95-48a6-9bad-530b745bac5a
