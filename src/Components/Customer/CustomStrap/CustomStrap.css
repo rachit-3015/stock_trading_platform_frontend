@@ -1,1 +1,53 @@
+.moving-strap-container {
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  /* align-items: center; */
+}
 
+.moving-strap {
+  display: flex;
+  position: relative;
+  /* justify-content: center; */
+  height: 50%;
+  animation: moveStrap 10s linear infinite;
+}
+
+@keyframes moveStrap {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.moving-strap-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 16px;
+  color: white;
+  font-weight: bold;
+  border-right: 1px solid black;
+  height: 100px;
+}
+
+.moving-strap-symbol {
+  font-size: 20px;
+  color: black;
+}
+
+.moving-strap-price {
+  font-size: 16px;
+  color: black;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+}
+.moving-strap-item:last-child {
+  border-right: none; /* Remove border-right from the last item */
+}
