@@ -49,5 +49,6 @@
   justify-content: center;
 }
 .moving-strap-item:last-child {
-  border-right: none; /* Remove border-right from the last item */
+   /* Remove border-right from the last item */
+  border-right: none; 
 }
