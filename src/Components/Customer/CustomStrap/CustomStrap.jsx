@@ -7,7 +7,7 @@ export default function CustomStrap() {
 
   const symbols = ["TSLA", "AAPL", "MSFT", "NVDA","AVGO","ORCL","ADBE","CSCO"];
   useEffect(() => {
-    const api = "5382352b0e9b4dd78af034a773b8f7a7";
+    const api = "";
     const fetchStockData = async () => {
       try { 
         const responses = await Promise.all(
